@@ -25,6 +25,14 @@ file6='desc=most basic; file=zi3-skool.zip'
 date6="$(date "--date=@$(python3 -c 'import os;sz=os.stat("zi3-skool.zip");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size6="$(du --apparent-size -h zi3-skool.zip | awk '{print $1}')"
 
+file7='desc=block domains; file=txt-irebox-hosts.txt'
+date7="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-irebox-hosts.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size7="$(du --apparent-size -h txt-irebox-hosts.txt | awk '{print $1}')"
+
+file8='desc=block domains; file=htm-irebox-hosts.htm'
+date8="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-irebox-hosts.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size8="$(du --apparent-size -h htm-irebox-hosts.htm | awk '{print $1}')"
+
 
 #
 cat <<EOF | python3 txt-py-gen-index.txt
@@ -34,4 +42,6 @@ date=$date3; $file3; size=$size3
 date=$date4; $file4; size=$size4
 date=$date5; $file5; size=$size5
 date=$date6; $file6; size=$size6
+date=$date7; $file7; size=$size7
+date=$date8; $file8; size=$size8
 EOF
