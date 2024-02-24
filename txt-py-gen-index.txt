@@ -12,15 +12,21 @@ header = '''
 <meta charset="UTF-8" />
 <meta http-eqiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Aynrndex A' ElMetah</title>
+  <title>Index Of ./</title>
 <style>
 
 body{
-margin:0;
+margin:0;padding:0;
+font-size:20px;
+}
+h1{
+margin:0;padding:0;
+font-size:2.3em;
 }
 </style>
 </head>
 <body>
+<h1>Index Of ./</h1>
   <table cellpadding="3" cellspacing="0">
    <tr><th valign="top"><img src="jit-blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
    <tr><th colspan="5"><hr></th></tr>
@@ -53,18 +59,26 @@ import sys
 slurped = sys.stdin.read()
 ar = slurped.split("\n")
 slurped = None
-ar2 = ar[0].split('; ')
-ar = None
-#date,desc,file
-date = ar2[0][5:]
-desc = ar2[1][5:]
-file = ar2[2][5:] #TODO: file_exists
-size = ar2[3][5:]
-if desc == '':
-  desc = '-'
+
 
 print(header)
-print_row(date, desc, file, size)
+
+for i in range(len(ar)):
+  ar2 = ar[i].split('; ')
+  if len(ar2) != 4:
+    break
+  date = ar2[0][5:]
+  desc = ar2[1][5:]
+  file = ar2[2][5:] #TODO: file_exists
+  size = ar2[3][5:]
+  ar2 = None
+  if desc == '':
+    desc = '-'
+
+  print_row(date, desc, file, size)
+
+ar = None
+
 print(footer)
 
 

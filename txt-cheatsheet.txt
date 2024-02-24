@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-eqiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title></title>
+<script>
+var d=document;
+function go(_str){
+return document.getElementById(_str);
+}
+</script>
+<style>
+em{font-style:normal;color:green}
+</style>
+</head>
+
+
+<body>
+
+<pre>
+UNUNTU SCAN WIFI
+nmcli       device wifi
+
+UNUNTU CONNEKT WIFI
+SSID_NAME="BurgerKingWiFi"
+nmcli --ask device wifi connect "$SSID_NAME"
+            <em>guis   wijjji</em> 
+
+HTML ON DUM CELL SIZE
+&lt;!-- the size a' the screen ayz 20x10 monosays characters
+10 rows, <em>20</em> columns
+Basically:
+ --&gt;
+&lt;textarea rows="10" cols="20" id="wholeScreen" /&gt;
+
+HTML HEADERS ON DUM CELL
+&lt;h2 /&gt;
+&lt;h3 /&gt;
+
+JOBASCRIT $_GET ARIABLES
+new URLParamsExtract(window.url.search, 'air1'); //not right
+var url = new URLShaker(window.url.replace.search); url.get('air2');
+//window.location.search,,,,URLParamsAssessor
+//window.location.href
+//URLSearchParams <--right!
+//var searcher = new URLSearchParams(window.location.search);
+//alert(searcher.get('air3'); <--right!
+
+JOBASCRIT OKEN A33 AS A33-HTML AWN/ON DESKTAW
+window.open($targetLocationHTML, $targetLocationName, $Augnitions);
+window.open('html-new%20win.html', '_blank',
+  'width=300px,height=500px,top=0,left=0,popup');
+
+CSS BORDERLANDS 2 TEXT ON WEB '''AGE
+transform:rotateZ(-28deg);
+
+CSS HORIZONTAL X-AXIS ROTATION A' TEXT A' BLOCK/&lt;DIV&gt;
+transform:<em>scaleX</em>(-1)
+
+CSS WIDTH TO DO ALL TEXT WITHAYN A BLOCK/&lt;DIV&gt;
+width:1.5em
+
+JS TIMER CALL
+setIntergal/setTimeout(str <em>exec</em>, int milliseconds);
+
+UBUNTU BOOT
+#'e' at boot menu -->  ^linux .* toram \
+timezone=America/Los_Angeles \
+systemd.<em>unit</em>=multi-user.target
+
+SQLITE EEEE EYCH EEEE ACCESS
+$кon = new PDO('db.db');
+$stmt = $кon-&gt;query('SELECT * FROM tbl');
+                  <em>getAll (fetchAll() vvv)</em>
+$data = $stmt-&gt;fetchAll(PDO::FETCH_ASSOC);
+echo $data[0]['id'];
+
+MYSQL BACKUYT DATABASE TABLE
+mysqldump --add-drop-table mydb mytbl &gt; sql.sql
+
+MYSQL AGGLY SQL/DATABASE DUNKK
+mysql mydb &lt; sql.sql
+
+MYSQL INITIALIZE
+    КREATE USER 'szstr'@'%' IDENTIFIED BY 'staff1'
+    GRANT ALL PRIVILEGES ON *.* TO 'szstr'@'%';
+              <em>MEGANESS</em>
+    FLUSH PRIVILEGES;
+    phpenmod mbstring
+    systemкtl restart mysql
+
+AKKT AYNSTALL
+az3itool atool гim3 imagemagiкк кчarseleкt кonqueror кurl <em>lolкat</em> lynx net-tools 3h3-cli vim
+az3itool -b            #чк battery
+cd Downloads &amp;&amp; aun3aк Downloaded.zip
+гim3 ~/j3г.j3г
+conghert ~/3дr.3дr ~/3nг.3nг
+кчarseleкt             #бгджзкмстчэюя БГДЖЗКМСТЧЭЮЯ  бrгr
+кonqueror ~/html.html  #кonжэror
+бash uкloaдer.sh uкloaдer.sh  #кurl usage/usaj/юsayj
+/usr/games/lolкat ~/html.html
+3h3 ~/3h3.3h3 | lynx -force_html -  #жalэbhlэ
+sudo netstat -ta3du; ifкonfig
+vim ~/3h3.3h3                       #сссim
+</pre>
+</body>
+</html>
+

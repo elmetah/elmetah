@@ -9,9 +9,17 @@ file2='desc=generator aider; file=txt-py-gen-index.txt'
 date2="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-py-gen-index.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size2="$(du --apparent-size -h txt-py-gen-index.txt | awk '{print $1}')"
 
-file3='desc=generator; file=txt-sh-genayndex.txt'
+file3='desc=generator exe cout; file=txt-sh-genayndex.txt'
 date3="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-sh-genayndex.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size3="$(du --apparent-size -h txt-sh-genayndex.txt | awk '{print $1}')"
+
+file4='desc=; file=txt-cheatsheet.txt'
+date4="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-cheatsheet.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size4="$(du --apparent-size -h txt-cheatsheet.txt | awk '{print $1}')"
+
+file5='desc=most basic; file=txt-htm.txt'
+date5="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-htm.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size5="$(du --apparent-size -h txt-htm.txt | awk '{print $1}')"
 
 
 #
@@ -19,4 +27,6 @@ cat <<EOF | python3 txt-py-gen-index.txt
 date=$date1; $file1; size=$size1
 date=$date2; $file2; size=$size2
 date=$date3; $file3; size=$size3
+date=$date4; $file4; size=$size4
+date=$date5; $file5; size=$size5
 EOF
