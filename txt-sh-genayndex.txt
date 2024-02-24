@@ -21,6 +21,10 @@ file5='desc=most basic; file=txt-htm.txt'
 date5="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-htm.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size5="$(du --apparent-size -h txt-htm.txt | awk '{print $1}')"
 
+file6='desc=most basic; file=zi3-skool.zip'
+date6="$(date "--date=@$(python3 -c 'import os;sz=os.stat("zi3-skool.zip");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size6="$(du --apparent-size -h zi3-skool.zip | awk '{print $1}')"
+
 
 #
 cat <<EOF | python3 txt-py-gen-index.txt
@@ -29,4 +33,5 @@ date=$date2; $file2; size=$size2
 date=$date3; $file3; size=$size3
 date=$date4; $file4; size=$size4
 date=$date5; $file5; size=$size5
+date=$date6; $file6; size=$size6
 EOF
