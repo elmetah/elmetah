@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+file1='desc=main content; file=htm-main.htm'
+date1="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-main.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size1="$(du --apparent-size -h htm-main.htm | awk '{print $1}')"
+
+file2='desc=generator aider; file=txt-py-gen-index.txt'
+date2="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-py-gen-index.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size2="$(du --apparent-size -h txt-py-gen-index.txt | awk '{print $1}')"
+
+file3='desc=generator; file=txt-sh-genayndex.txt'
+date3="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-sh-genayndex.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size3="$(du --apparent-size -h txt-sh-genayndex.txt | awk '{print $1}')"
+
+
+#
+cat <<EOF | python3 txt-py-gen-index.txt
+date=$date1; $file1; size=$size1
+date=$date2; $file2; size=$size2
+date=$date3; $file3; size=$size3
+EOF

@@ -1,0 +1,89 @@
+#!/usr/bin/python3
+
+'''
+exit 0
+'''
+
+
+header = '''
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-eqiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aynrndex A' ElMetah</title>
+<style>
+
+body{
+margin:0;
+}
+</style>
+</head>
+<body>
+  <table cellpadding="3" cellspacing="0">
+   <tr><th valign="top"><img src="jit-blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+'''
+
+footer = '''
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<div>Created to Github</div>
+
+</body>
+</html>'''
+
+
+def print_row(date, desc, file, size):
+  icon_url = 'jit-other.gif'
+  icon_alt = '[   ]'
+  if 'htm' in file or 'txt' in file:
+    icon_url = 'jit-text.gif'
+    icon_alt = '[TXT]'
+
+  file = file
+  size = size
+  desc = desc
+
+  print('<tr><td valign="top"><img src="' + icon_url + '" alt="' + icon_alt + '"></td><td><a href="' + file + '">' + file + '</a></td><td align="right">' + date + '</td><td align="right">' + size + '</td><td>' + desc + '</td></tr>');
+
+
+import sys
+slurped = sys.stdin.read()
+ar = slurped.split("\n")
+slurped = None
+ar2 = ar[0].split('; ')
+ar = None
+#date,desc,file
+date = ar2[0][5:]
+desc = ar2[1][5:]
+file = ar2[2][5:] #TODO: file_exists
+size = ar2[3][5:]
+if desc == '':
+  desc = '-'
+
+print(header)
+print_row(date, desc, file, size)
+print(footer)
+
+
+
+
+
+#<NOTES>...
+#Now ==== $Now = Wed Feb 21 08:39:41 PST 2024
+#index.html, getLastModified(YYYY-mm-dd HH:MM) . ' ', getSize() [86, 3.2K, 19M], desc=>'main content aajj'
+#auto_get_icon_name(*.htm* => icons_text.gif, * => icons_other.gif)
+#auto_get_icon_alt(*.htm* => '[TXT]', * => '[   ]')
+#print('<tr><td valign="top"><img src="icons_text.gif" alt="[TXT]"></td><td><a href="index.html">index.html</a></td><td align="right">2024-02-21 08:39  </td><td align="right">8.0K</td><td>main content aajj</td></tr>', sep='');
+
+
+
+
+
+#file = 'abc.jpg'
+#ext = file.split('.')
+#file = None
+#print('Extension = ' + ext[-1]);
+
