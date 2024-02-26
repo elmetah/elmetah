@@ -10,16 +10,44 @@ var d=document;
 function go(_str){
 return document.getElementById(_str);
 }
+
+
+function btnEnter_clicked(){
+  var sz = go('szString').value;
+  go('szString').value = '';
+  go('szString').focus();
+
+  go('mypre').innerHTML += "\n" + sz;
+  d.cookie = 'here=' + go('mypre').innerHTML;
+}
+function btnClearCookie_clicked(){
+  d.cookie = 'here=';
+}
 </script>
 <style>
-
+body{
+margin:0;
+padding:0;
+font-size:20px;
+}
 </style>
 </head>
 
 
 <body>
-Hola,<br>
-Aynstant noodles das grateui. estoy estoy muertos la la le la.
+<form action="./htm-main.htm" method="GET">
+What are you doing withaynout 3.22222 minyanas?<br>
+<input type="text" style="width:90%" id="szString" name="szString" /><hr>
+<input type="button" value="enter" onclick="btnEnter_clicked()" />
+<input type="reset" value="reset" />
+<input type="button" value="clear_cookie" onclick="btnClearCookie_clicked()" />
+</form>
+
+<pre id="mypre">here=test</pre>
+<script>
+if(document.cookie)
+go('mypre').innerHTML = document.cookie;
+</script>
 </body>
 </html>
 
