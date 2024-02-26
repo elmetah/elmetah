@@ -38,18 +38,18 @@ font-size:20px;
 
 
 <body>
-<form action="./htm-main.htm" method="GET">
+<form action="./htm-main.htm" method="GET" onsubmit="btnEnter_clicked();return !true;">
 What are you doing withaynout 3.22222 minyanas?<br>
-<input type="text" style="width:90%" id="szString" name="szString" /><hr>
+<input type="text" style="width:90%" id="szString" name="szString" /><br>
 <input type="button" value="enter" onclick="btnEnter_clicked()" />
 <input type="reset" value="reset" />
-<input type="button" value="clear_cookie" onclick="btnClearCookie_clicked()" />
+<input type="button" value="clear" onclick="btnClearCookie_clicked()" />
 </form>
 
-<pre id="mypre">here=test</pre>
+<pre id="mypre">here=11</pre>
 <script>
 if(document.cookie)
-go('mypre').innerHTML = document.cookie;
+go('mypre').innerHTML = decodeURIComponent(document.cookie);
 </script>
 </body>
 </html>
