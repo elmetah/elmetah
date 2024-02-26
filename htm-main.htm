@@ -18,7 +18,7 @@ function btnEnter_clicked(){
   go('szString').focus();
 
   go('mypre').innerHTML += "\n" + sz;
-  d.cookie = 'here=' + go('mypre').innerHTML;
+  d.cookie = 'here=' + encodeURIComponent(go('mypre').innerHTML.substring(5));
 }
 function btnClearCookie_clicked(){
   d.cookie = 'here=';
@@ -28,6 +28,9 @@ function btnClearCookie_clicked(){
 body{
 margin:0;
 padding:0;
+font-size:20px;
+}
+input{
 font-size:20px;
 }
 </style>
