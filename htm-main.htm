@@ -18,7 +18,7 @@ function btnEnter_clicked(){
   go('szString').focus();
 
   go('mypre').innerHTML += "\n" + sz;
-  d.cookie = 'here=' + encodeURIComponent(go('mypre').innerHTML.substring(5));
+  d.cookie = 'here=' + encodeURIComponent(go('mypre').innerHTML.substring(5)) + '; expires=Sun, 1 January 2030 12:00:00 UTC';
 }
 function btnClearCookie_clicked(){
   d.cookie = 'here=';
