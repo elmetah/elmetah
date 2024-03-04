@@ -4,9 +4,9 @@ https://github.com/user95f85f
 
 😀⛏ work work work work
 - 👋 Hi, I’m @elmetah
-- 👀 I’m aynterested in/ayn greed/Gheed, gambling, traitorism science, justis, also illumination.
-- 🌱 I’m currently learning korn shell scritting.
-- 💞️ I’m looking to collaborate on making the aynternet easier.
+- 👀 I’m aynterested in/ayn justis with no other j's, hatecrimes.
+- 🌱 I’m currently learning CGI $(( 2077-80 )) with 3erl.
+- 💞️ I’m looking to collaborate on justis.
 - 📫 How to reach me n/a
 
 <!---

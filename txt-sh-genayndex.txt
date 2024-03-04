@@ -37,6 +37,9 @@ file9='desc=aynkludes Russian; file=htm-utt-8.htm'
 date9="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-utt-8.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size9="$(du --apparent-size -h htm-utt-8.htm | awk '{print $1}')"
 
+file10='desc=; file=txt-words-a-the-week.txt'
+date10="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-words-a-the-week.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size10="$(du --apparent-size -h txt-words-a-the-week.txt | awk '{print $1}')"
 
 
 #
@@ -50,4 +53,5 @@ date=$date6; $file6; size=$size6
 date=$date7; $file7; size=$size7
 date=$date8; $file8; size=$size8
 date=$date9; $file9; size=$size9
+date=$date10; $file10; size=$size10
 EOF
