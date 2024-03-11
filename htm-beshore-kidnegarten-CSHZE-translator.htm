@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta http-eqiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ж translator</title>
+<script>
+var d = document;
+function go(_str){
+return d.getElementById(_str);
+}
+function translatee(){
+    var szstr = go('txtFrom').value;
+    var translationn = 'YOU GUYS AS YOU GUYS AS YALL ARE BUTTZS';
+    if(szstr == '<<><>>>><')
+    translationn = 'HALLO';
+    else if(szstr == '<>><>>>>>')
+    translationn = 'JUDGE';
+    else if(szstr === '<<>')
+    translationn = 'EAT SHIT UN\' DIE';
+    else if(szstr === '>>>>')
+    translationn = 'BURN AYN/IN HELLLL1LLLLLLLLLL';
+    else if(szstr === '>><>>')
+    translationn = 'YOU AS YOU AS YOU BETRAYED ME';
+    else if(szstr === '>>>>>')
+    translationn = 'YOU AS YOU ARE CRAZY';
+    else if(szstr === '<>><<<')
+    translationn = 'I AS ME AS ME AS ME AM SLOW TODAY';
+    go('txtTo').value = translationn + "\nEEGL OUT\nMESSAGE END";
+}
+function rnd(_ar){
+var n = Math.random();
+if(n < 0.1)
+    return _ar[6];
+if(n < 0.2)
+    return _ar[5];
+if(n < 0.3)
+    return _ar[4];
+if(n < 0.4)
+    return _ar[3];
+if(n < 0.5)
+    return _ar[2];
+if(n < 0.6)
+    return _ar[1];
+
+    return _ar[0];
+}
+function body_loaded(){
+go('txtFrom').value = rnd('<<><>>>><  <>><>>>>>  <<>  >>>>  >><>>  >>>>>  <>><<<'.split('  '))
+}
+
+</script>
+</head>
+
+<body onload="body_loaded()">
+<a href="./">&lt;-- HOME</a>
+<h2>Ж Translator</h2>
+<form name="frm" id="frm">
+<textarea rows="6" style="width:90%" id="txtFrom" name="txtFrom">&lt;&lt;&gt;&lt;&gt;&gt;&gt;&gt;&lt;</textarea><br>
+<input type="button" value="translate" onclick="translatee()" />
+<hr>
+<textarea rows="6" style="width:90%" id="txtTo" name="txtTo"></textarea>
+</form>
+</body></html>

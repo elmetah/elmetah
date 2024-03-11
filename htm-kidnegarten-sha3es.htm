@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-eqiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title></title>
+<script>
+var d=document;
+function go(_str){
+return document.getElementById(_str);
+}
+function alert2(_str){
+setTimeout('alert("' + _str + '");', 500);
+}
+function chk_out(){
+var sz = go('out').innerHTML;
+    switch(sz){
+    case '🪟🪟📐':
+        alert2('catastrotree');break;
+    case '📐📐🧿':
+        alert2('ca3ut');break;
+    case '📏📏📏':
+        alert2('silliness');break;
+    }
+}
+function button_clicked(_btn){
+go('out').innerHTML += _btn.value;
+chk_out();
+}
+</script>
+<style>
+*{font-size:30px}
+</style>
+</head>
+
+
+<body>
+<input type="button" value="🧿" onclick="button_clicked(this)" />
+<input type="button" value="📏" onclick="button_clicked(this)" />
+<input type="button" value="🪟" onclick="button_clicked(this)" />
+<input type="button" value="📐" onclick="button_clicked(this)" />
+<div id="out"></div>
+<pre>
+
+case 🪟🪟📐:
+alarm('catastrotree');break;
+case 📐📐🧿:
+alarm('ca3ut');break;
+case 📏📏📏:
+alarm('silliness');break;
+</pre>
+</body>
+</html>
+
