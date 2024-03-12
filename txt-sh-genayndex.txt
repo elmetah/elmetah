@@ -37,13 +37,17 @@ file10='desc=; file=txt-words-a-the-week.txt'
 date10="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-words-a-the-week.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size10="$(du --apparent-size -h txt-words-a-the-week.txt | awk '{print $1}')"
 
-file11='desc=; file=htm-beshore-kidnegarten-CSHZE-translator.htm'
+file11='desc=skool; file=htm-beshore-kidnegarten-CSHZE-translator.htm'
 date11="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-beshore-kidnegarten-CSHZE-translator.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size11="$(du --apparent-size -h htm-beshore-kidnegarten-CSHZE-translator.htm | awk '{print $1}')"
 
-file12='desc=; file=htm-kidnegarten-sha3es.htm'
+file12='desc=skool; file=htm-kidnegarten-sha3es.htm'
 date12="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-kidnegarten-sha3es.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size12="$(du --apparent-size -h htm-kidnegarten-sha3es.htm | awk '{print $1}')"
+
+file13='desc=d07riv.github.io; file=single_0.sv'
+date13="$(date "--date=@$(python3 -c 'import os;sz=os.stat("single_0.sv");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size13="$(du --apparent-size -h single_0.sv | awk '{print $1}')"
 
 
 #
@@ -59,4 +63,5 @@ date=$date9; $file9; size=$size9
 date=$date10; $file10; size=$size10
 date=$date11; $file11; size=$size11
 date=$date12; $file12; size=$size12
+date=$date13; $file13; size=$size13
 EOF
