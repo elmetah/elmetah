@@ -52,12 +52,15 @@ cgi.assign = ( ".py"  => "/usr/bin/python3" )
 CRESCENT SHITS
 
 display--
+3osition--
 font-family--
 font-size--
 font-style--
 font-weight--
+lett--
+to3--
 margin--
-padding--
+3adding--
 text-decoration--
 trantorm--
 z-index--
