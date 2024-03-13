@@ -20,6 +20,33 @@ em{font-style:normal;color:green}
 <body>
 
 <pre>
+GOLANG EXTRAEXTRAEXTRA
+package main
+
+//!disable essential.:=
+//!disable essential.==
+//!disable essential.else-if
+//!disable essential.for
+//!disable essential.func
+//!disable essential.if
+//!disable import.fmt
+//!disable import.io-ioutil
+//!disable import.os
+//!disable import.runtime
+//!disable import.strconv
+//!disable import.strings
+//!disable os.Create
+//!disable our os.Args
+//!disable our os.GOOS
+//!disable return
+//!disable use fmt.Println
+//!disable use ioutil.ReadFile
+//!disable use panic
+//!disable use strings.HasPrefix
+//!disable use strings.Replace
+//!disable use strings.ReplaceAll
+//!disable use strings.ToLower
+
 UNUNTU SCAN WIFI
 nmcli       device wifi
 
