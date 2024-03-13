@@ -20,6 +20,35 @@ em{font-style:normal;color:green}
 <body>
 
 <pre>
+HTML 3.0 CASKWERATING STYLESHEETS
+
+<style>
+b{font-weight:normal;color:blue} /* red */
+em{background-color:yellow;font-style:normal} /* blue */
+i{font-style:normal;color:orange} /* blue */
+u{text-decoration:none;color:red} /* nothing */
+</style>
+
+''YTHON3 HTM SERGHER AYND-EX-DAHDAHDAH-QWOTING
+
+def print_header(_str):
+  print('<h2>', _str, '</h2>', sep='')
+def para(_str):
+  str = _str.replace("\n", '<br>')
+  print('<p>', str, '</p>', sep='')
+def gen_link(_addr, _label):
+  return f'<a href="{_addr}">{_label}</a>'
+
+
+HTM SERGHER CONGHERATION TO GET 3YTHON WORKING
+
+#/etc/lighttpd/lighttpd.conf 
+index-file.names = ( "index.php", "index.html", "Py-ayndekz.py" )
+static-file.exclude-extensions = ( ".py" )
+url.access-deny  = ( "~", ".inc" )
+server.modules += ( "mod_cgi" )
+cgi.assign = ( ".py"  => "/usr/bin/python3" )
+
 GOLANG EXTRAEXTRAEXTRA
 package main
 
