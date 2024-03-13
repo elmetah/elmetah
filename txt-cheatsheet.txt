@@ -49,6 +49,19 @@ url.access-deny  = ( "~", ".inc" )
 server.modules += ( "mod_cgi" )
 cgi.assign = ( ".py"  => "/usr/bin/python3" )
 
+CRESCENT SHITS
+
+display--
+font-family--
+font-size--
+font-style--
+font-weight--
+margin--
+padding--
+text-decoration--
+trantorm--
+z-index--
+
 GOLANG EXTRAEXTRAEXTRA
 package main
 
