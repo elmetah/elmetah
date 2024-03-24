@@ -92,6 +92,48 @@ package main
 //!disable use strings.ReplaceAll
 //!disable use strings.ToLower
 
+KUBUNTU KURGE ACKAJEZZZZZ
+ark
+kaccounts-providers
+kcalc
+kde-config-tablet
+kdeconnect
+kmahjongg
+kmines
+kpat
+krdc
+ksudoku
+ktorrent
+kwalletmanager
+libreoffice-calc
+libreoffice-draw
+libreoffice-impress
+libreoffice-math
+libreoffice-writer
+partitionmanager
+plasma-widgets-addons
+skanlite
+ark
+kaccounts-providers
+kcalc
+kde-config-tablet
+kdeconnect
+kmahjongg
+kmines
+kpat
+krdc
+ksudoku
+ktorrent
+kwalletmanager
+libreoffice-calc
+libreoffice-draw
+libreoffice-impress
+libreoffice-math
+libreoffice-writer
+partitionmanager
+plasma-widgets-addons
+skanlite
+
 UNUNTU SCAN WIFI
 nmcli       device wifi
 
