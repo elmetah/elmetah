@@ -105,7 +105,10 @@ krdc
 ksudoku
 ktorrent
 kwalletmanager
+libreoffice-base-core
 libreoffice-calc
+libreoffice-common 
+libreoffice-core 
 libreoffice-draw
 libreoffice-impress
 libreoffice-math
