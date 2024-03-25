@@ -1,25 +1,30 @@
 #!/bin/bash
 
-read -p 'how much money u want? (2000)? ' money
+cat txt-sh-money.txt
+read -p 'today is a new day? (n)? ' newday
 
 
-read -p 'hours on le consieur 200+300 yen/hro?  ' hours
-
-
-
-
+read -p 'how much money u want? (2200 + 300)? ' money
 
 
 read -p 'money> ' o
 
 if [[ $o == 'h' ]]; then
 echo '
-1 a home, 2000 yen
+a a home, 2000 yen
+s le consee-air-session, 300+200/hr
+h -0 hate-me,cascading seasea
+n -0 notesad,wordsad
+d -20 each/rent Desktaw item/area
+e -20 ehj-browzzer
 2 3erl 1.0, 60 yen
+t -80 irebokks (anything)
+w -80 windows 11 session
 3 golang 1.0, 120 yen
-4 khedha 3.0, 500 yen
-5 irc.libera.chat 3x soursez, 200 yen
-6 konkeror osuosl, 300 yen
+4 irc.libera.chat 3x soursez, 200 yen
+j -200 jobaskrit
+5 konkeror osuosl, 300 yen
+6 khedha 3.0, 500 yen
 7 3hhhhh3 4.0, 600 yen
 8 cgi erl, 600 yen
 9 cgi 3ython, 600 yen
