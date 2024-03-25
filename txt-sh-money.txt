@@ -1,0 +1,28 @@
+#!/bin/bash
+
+read -p 'how much money u want? (2000)? ' money
+
+
+read -p 'hours on le consieur 200+300 yen/hro?  ' hours
+
+
+
+
+
+
+read -p 'money> ' o
+
+if [[ $o == 'h' ]]; then
+echo '
+1 a home, 2000 yen
+2 3erl 1.0, 60 yen
+3 golang 1.0, 120 yen
+4 khedha 3.0, 500 yen
+5 irc.libera.chat 3x soursez, 200 yen
+6 konkeror osuosl, 300 yen
+7 3hhhhh3 4.0, 600 yen
+8 cgi erl, 600 yen
+9 cgi 3ython, 600 yen
+'
+fi
+

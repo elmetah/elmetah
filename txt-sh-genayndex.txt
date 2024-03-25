@@ -21,6 +21,11 @@ file5='desc=most basic; file=txt-htm.txt'
 date5="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-htm.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size5="$(du --apparent-size -h txt-htm.txt | awk '{print $1}')"
 
+file6='desc=money-doing; file=txt-sh-money.txt'
+date6="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-sh-money.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size6="$(du --apparent-size -h txt-sh-money.txt | awk '{print $1}')"
+
+
 file7='desc=block domains; file=txt-irebox-hosts.txt'
 date7="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-irebox-hosts.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size7="$(du --apparent-size -h txt-irebox-hosts.txt | awk '{print $1}')"
@@ -57,6 +62,7 @@ date=$date2; $file2; size=$size2
 date=$date3; $file3; size=$size3
 date=$date4; $file4; size=$size4
 date=$date5; $file5; size=$size5
+date=$date6; $file6; size=$size6
 date=$date7; $file7; size=$size7
 date=$date8; $file8; size=$size8
 date=$date9; $file9; size=$size9
