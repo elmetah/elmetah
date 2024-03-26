@@ -112,7 +112,15 @@ libreoffice-core
 libreoffice-draw
 libreoffice-impress
 libreoffice-math
-libreoffice-writer
+libreoffice-writer 
+libreoffice-style-breeze 
+libreoffice-style-colibre 
+libreoffice-uiconfig-calc 
+libreoffice-uiconfig-common 
+libreoffice-uiconfig-draw 
+libreoffice-uiconfig-impress 
+libreoffice-uiconfig-math 
+libreoffice-uiconfig-writer
 partitionmanager
 plasma-widgets-addons
 skanlite
