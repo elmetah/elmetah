@@ -54,6 +54,10 @@ file13='desc=d07riv.github.io; file=single_0.sv'
 date13="$(date "--date=@$(python3 -c 'import os;sz=os.stat("single_0.sv");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size13="$(du --apparent-size -h single_0.sv | awk '{print $1}')"
 
+file14='desc=learning ruso; file=htm-russianLrn.htm'
+date14="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-russianLrn.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size14="$(du --apparent-size -h htm-russianLrn.htm | awk '{print $1}')"
+
 
 #
 cat <<EOF | python3 txt-py-gen-index.txt
@@ -70,4 +74,5 @@ date=$date10; $file10; size=$size10
 date=$date11; $file11; size=$size11
 date=$date12; $file12; size=$size12
 date=$date13; $file13; size=$size13
+date=$date14; $file14; size=$size14
 EOF
