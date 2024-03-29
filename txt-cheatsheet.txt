@@ -95,6 +95,7 @@ package main
 KUBUNTU KURGE ACKAJEZZZZZ
 ark
 kaccounts-providers
+kate
 kcalc
 kde-config-tablet
 kdeconnect
