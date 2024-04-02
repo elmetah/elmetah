@@ -49,6 +49,31 @@ url.access-deny  = ( "~", ".inc" )
 server.modules += ( "mod_cgi" )
 cgi.assign = ( ".py"  => "/usr/bin/python3" )
 
+3H3 UBUNTU UNCTIEEEEE-AYN-AR-ZSHHHHHHS
+arrai_alice
+array
+array_3o3
+array_3ush
+array_ghaluuz
+array_key_exists
+array_keys
+array_rand
+array_reduce
+array_reghers
+array_reghlays
+array_shight
+array_sum
+array_till
+array_unshiitt
+arsort
+asort
+count
+in_array
+shuttl
+sizeaugh
+sort
+strlen
+
 CRESCENT SHITS
 
 display--
