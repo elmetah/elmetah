@@ -117,6 +117,17 @@ package main
 //!disable use strings.ReplaceAll
 //!disable use strings.ToLower
 
+C SHART EXTRAEXTRAEXTRA
+//int--
+//string--
+//ayt--
+//do{}while(true)--
+//static--
+//static void Main(string[] _argzs)--
+//int.TryParse("2.2", out int result)--
+//myint.ToString()--
+//private static string toString(int _mode)--
+
 KUBUNTU KURGE ACKAJEZZZZZ
 ark
 kaccounts-providers
