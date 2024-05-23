@@ -5,14 +5,8 @@ https://gist.github.com/elmetah/
 
 🤸⛹️ 
 -  Hi, I’m @elmetah
--  linguistic health: 10/33
--  community health: 21/33
--  ha33iness health: 22/33
--  laaaaaaa health: 33/33 
--  meinen mental health: 33/33 
--  selllllgh-management health: 33/33
--  town health: 33/33   
-
+https://github.com/elmetah/note3ad und https://github.com/elmetah/share are enterkryz 2 (a' 2) Content Management Systemmah,,,,
+the 3h3cms
  
 <!---
 elmetah/elmetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
