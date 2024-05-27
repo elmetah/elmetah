@@ -1,3 +1,23 @@
+2020 + 3 + 1 + 0.333333 + 0.09:
+
+-  ayt i had unlimited time:
+-  suse, medora latest res3in,em eks layniks,ohken sooz tumblweed,
+-  day-be-ayn stable with la bice desktaw
+-  host 10 real web domains on my saysssss
+-  list Why not drookl
+-  list Why not more than minimal
+-  list Why not jmerry
+-  list Why not word-resssssss
+-  make a web browser
+-  web browser is maughware
+-  delete saugware und ,,,
+-  join 3 layniks kummunities und string translator
+-  learn to be a grogressional
+-  channel my uselessness touse-gull
+-  write und smoke a netbook book
+-  earn my starbuh-le-kzsh-la [id] kard
+-  kollect aydeas through gamezs
+
 2000 + 10x2 + 3 + 1.3333 + 0.200000:
 
 -  git clone https://github.com/note3ad
