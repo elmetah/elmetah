@@ -4,7 +4,7 @@
 -  https://gist.github.com/megatron-lucy/
 -  https://gist.github.com/user95f85f/ 
 -  https://github.com/megatron-lucy
--  https://github.com/user95f85f good cheatsheets
+-  https://github.com/user95f85f/todo good cheatsheets
 
 
   ⌛ ⋺
