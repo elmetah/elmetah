@@ -1,3 +1,10 @@
+2000 + 10x2 + 3 + 1.3333 + 0.200000:
+
+-  git clone https://github.com/note3ad
+-  git clone https://github.com/share
+-  chmod 0777 note3ad/n; mv note3ad www/n
+-  chmod 0777 share/s; mv share www/s
+
 200 + 1800 + 20 + 3 + 1.313131 + 0.111111:
 
 -  https://elmetah.github.io/elmetah/ (tthis rekository)
