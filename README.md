@@ -1,12 +1,13 @@
--  https://elmetah.github.io/elmetah/ tthis rekository
+-  https://elmetah.github.io/elmetah/ (tthis rekository)
+-  https://megatron-lucy.github.io/ utilities
 -  https://gist.github.com/elmetah/
 -  https://gist.github.com/megatron-lucy/
 -  https://gist.github.com/user95f85f/ 
 -  https://github.com/megatron-lucy
--  https://github.com/user95f85f
+-  https://github.com/user95f85f good cheatsheets
 
 
-  🥉 outta 2
+  ⌛ ⋺
   
 -  Hi, I’m @elmetah
 -  https://github.com/elmetah/note3ad sstring editor
