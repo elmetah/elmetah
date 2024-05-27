@@ -1,4 +1,8 @@
+
+
 2020 + 3 + 1 + 0.333333 + 0.09:
+
+joke a' the day:    what do you kall letter-kost: 2 to to 2 too much [shit]
 
 -  ayt i had unlimited time:
 -  suse, medora latest res3in,em eks layniks,ohken sooz tumblweed,
