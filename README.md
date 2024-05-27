@@ -1,5 +1,7 @@
--  https://elmetah.github.io/elmetah/
+-  https://elmetah.github.io/elmetah/ tthis rekository
 -  https://gist.github.com/elmetah/
+-  https://gist.github.com/megatron-lucy/
+-  https://gist.github.com/user95f85f/ 
 -  https://github.com/megatron-lucy
 -  https://github.com/user95f85f
 
@@ -7,9 +9,10 @@
   🥉 outta 2
   
 -  Hi, I’m @elmetah
-https://github.com/elmetah/note3ad und https://github.com/elmetah/share are enterkryz 2 (a' 2) Content Management Systemmah,,,,
+-  https://github.com/elmetah/note3ad sstring editor
+-  https://github.com/elmetah/share sssystem sharer
 
-https://github.com/elmetah/3h3cms
+(As a basic remote Content Managemente.)
  
 <!---
 elmetah/elmetah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
