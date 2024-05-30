@@ -2,8 +2,6 @@ https://github.com/elmetah/elmetah Dayyy caracterz
 
 2020 + 3 + 1 + 0.333333 + 0.09:
 
-joke a' the day:    what do you kall letter-kost: 2 to to 2 too much [shit]
-
 -  ayt i had unlimited time:
 -  suse, medora latest res3in,em eks layniks,ohken sooz tumblweed,
 -  day-be-ayn stable with la bice desktaw
@@ -17,7 +15,7 @@ joke a' the day:    what do you kall letter-kost: 2 to to 2 too much [shit]
 -  delete saugware und ,,,
 -  join 3 layniks kummunities und string translator
 -  learn to be a grogressional
--  channel my uselessness touse-gull
+-  channel my uselessness to use-gull
 -  write und smoke a netbook book
 -  earn my starbuh-le-kzsh-la [id] kard
 -  kollect aydeas through gamezs
