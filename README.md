@@ -1,3 +1,10 @@
+2023 + 1.33333 + 0.13:
+
+- how kan u en nourish [your] skill?
+- how can you get trained?
+- how is your education helth?
+- is your keyboard your best budy?
+
 https://github.com/elmetah/elmetah Dayyy caracterz
 
 2020 + 3 + 1 + 0.333333 + 0.09:
