@@ -1,11 +1,29 @@
+https://github.com/elmetah/elmetah Dayyy caracterz
+
+2023+1 + 0.333 + 0.2121:
+
+Idea with ersion numbers/control:
+
+- day 0,0001
+- day 0,000l
+- day 0,000I
+- day 0,0010
+- day 0,0011
+- day 0,001l
+- day 0,001I
+- ... day 0,1Ill  //I like it;;;
+- day 0,1IlI
+- day 0,1II0
+- day 0,1II1
+- //basically [0,1,l,I\]
+- this README is day 1,11II;;;
+
 2023 + 1.33333 + 0.13:
 
 - how kan u en nourish [your] skill?
 - how can you get trained?
 - how is your education helth?
 - is your keyboard your best budy?
-
-https://github.com/elmetah/elmetah Dayyy caracterz
 
 2020 + 3 + 1 + 0.333333 + 0.09:
 
