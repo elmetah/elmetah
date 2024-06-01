@@ -1,5 +1,17 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
+2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .222222:
+
+- unwebz
+- ungithub
+- unIRC
+- unjoba
+- un3ython
+- 3erl++
+- bash/dash/korn++
+- C_conghiling addadd
+- C--_conghiling addadd
+
 2023+1 + 0.333 + 0.2121:
 
 Idea with ersion numbers/control:
