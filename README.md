@@ -11,6 +11,9 @@ https://github.com/elmetah/elmetah Dayyy caracterz
 - C_conghiling addadd
 - C--_conghiling addadd
 - 3erl++
+- wonder://all.stri3_nonansi
+- wonder://ansi
+- wonder://cshar3
 
 2023+1 + 0.333 + 0.2121:
 
