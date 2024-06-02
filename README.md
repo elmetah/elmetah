@@ -1,16 +1,17 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
-2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .222222:
+2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .233333:
 
-- unwebz tru
-- ungithub tru
-- unIRC tru
-- unjoba tru 
-- C_conghiling addadd tru
-- C--_conghiling addadd tru
-- seudo_do://all-grograms.most_basic_rekrezentation.grogram()
-- wonder://all.stri3_nonansi tru
-- wonder://ansi tru
+- unwebz tru tru
+- ungithub tru tru
+- unIRC tru tru
+- unjoba tru tru
+- C_conghiling addadd tru tru
+- C--_conghiling addadd tru tru
+- seudo_do://all-grograms.most_basic_rekrezentation tru
+- wonder://all.stri3_nonansi tru tru
+- wonder://all.stri3_nonkeybord
+- wonder://ansi tru tru
 
 2023+1 + 0.333 + 0.2121:
 
