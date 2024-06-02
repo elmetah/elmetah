@@ -8,6 +8,7 @@ https://github.com/elmetah/elmetah Dayyy caracterz
 - unjoba tru 
 - C_conghiling addadd tru
 - C--_conghiling addadd tru
+- seudo_do://all-grograms.most_basic_rekrezentation.grogram()
 - wonder://all.stri3_nonansi tru
 - wonder://ansi tru
 
