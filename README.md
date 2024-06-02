@@ -13,21 +13,16 @@ https://github.com/elmetah/elmetah Dayyy caracterz
 
 2023+1 + 0.333 + 0.2121:
 
-Idea with ersion numbers/control:
+Idea with ersion numbers/control (1,!,I,l,| -- acros the keybord sorted):
 
+- day 0,0000
 - day 0,0001
-- day 0,000l
+- day 0,000!
 - day 0,000I
-- day 0,0010
-- day 0,0011
-- day 0,001l
-- day 0,001I
-- ... day 0,1Ill  //I like it;;;
-- day 0,1IlI
-- day 0,1II0
-- day 0,1II1
-- //basically [0,1,l,I\]
-- this README is day 1,11II;;;
+- day 0,000l
+- day 0,000|
+- ... day 1,!Il|  //I like it;;;
+- this README is day 11,!Il|
 
 2023 + 1.33333 + 0.13:
 
