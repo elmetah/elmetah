@@ -2,18 +2,14 @@ https://github.com/elmetah/elmetah Dayyy caracterz
 
 2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .222222:
 
-- unwebz
-- ungithub
-- unIRC
-- unjoba
-- un3ython
-- bash/dash/korn++
-- C_conghiling addadd
-- C--_conghiling addadd
-- 3erl++
-- wonder://all.stri3_nonansi
-- wonder://ansi
-- wonder://cshar3
+- unwebz tru
+- ungithub tru
+- unIRC tru
+- unjoba tru 
+- C_conghiling addadd tru
+- C--_conghiling addadd tru
+- wonder://all.stri3_nonansi tru
+- wonder://ansi tru
 
 2023+1 + 0.333 + 0.2121:
 
