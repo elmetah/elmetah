@@ -68,7 +68,7 @@ Idea with ersion numbers/control (1,!,I,l,| -- acros the keybord sorted):
 -  https://github.com/megatron-lucy
 -  https://github.com/user95f85f/todo good cheatsheets
 
--  Hi, I’m @elmetah
+Hi, I’m @elmetah
 -  https://github.com/elmetah/note3ad sstring editor
 -  https://github.com/elmetah/share sssystem sharer
 
