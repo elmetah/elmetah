@@ -1,5 +1,28 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
+2026 - 2 add 0.3333333 add 0.213333:
+
+32 keybord characterz:
+- initial 10:
+- \`~!@#$% ^&* 
+- second 10:
+- ()-_=+[]{}
+- last 10:
+- \\|;:''""<>,.//?
+
+E-ella (26 characterz):
+- qwertyuiopasdfghjklzxcvbnm
+- mnbvcxzlkjhgfdsapoiuytrewq
+- qazwsxedcrfvtgbyhnujmikolp
+- abcdefghijklmnopqrstuvwxyz
+- zyxwvutsrqponmlkjihgfedvba
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+- 1234567890
+- 0987654321
+- ONE TWO THREE THOR CHIVE SECHS SEIBEN AUVT NUEN ZERO
+- one teo three thor chive sechs seiben auvt nuen zero
+
 2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .233333:
 
 - unwebz tru tru
