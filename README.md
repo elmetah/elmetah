@@ -1,6 +1,10 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
-2026 - 2 add 0.3333333 add 0.213333:
+2026 - 2 add 0.3333333 add 0.221113:
+
+abacahday- ehgeh- haa- ii- jehkahla- mehneh- oh- rah- seh- teh- uh- weh- yeh- zeh
+
+aba rune, eh rune, haa rune, meh rune, rah rune, uh rune, yeh rune,,,
 
 si ensi c, yes c,,, while c is Tru;;;
 
