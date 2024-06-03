@@ -1,6 +1,6 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
-2026 - 2 add 0.3333333 add 0.221113:
+2026 - 2 add 0.3333333 add 0.221222:
 
 keybord warz olume 2B, UND ayn this/that olume ayncludes:
 - unicode DENIED
@@ -36,9 +36,9 @@ E-ella (26 characterz):
 
 2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .233333:
 
-- unIRC tru tru tru
-- unjoba tru tru tru
-- un3rogramming windows
+- unIRC by mining eyes/ayz/ayez/i's/I's/ones/numbers/arithmetic/ideas/aydeas
+- unjoba by locating real jobs
+- un3rogramming windows by eliminaring buttons und sstring entry
 
 2023+1 + 0.333 + 0.2121:
 
