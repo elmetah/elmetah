@@ -2,6 +2,11 @@ https://github.com/elmetah/elmetah Dayyy caracterz
 
 2026 - 2 add 0.3333333 add 0.221113:
 
+keybord warz olume 2B, UND ayn this/that olume ayncludes:
+- unicode DENIED
+- number STORMZ
+- hate-male (eych-tee-em-el) enrichment
+
 abacahday- ehgeh- haa- ii- jehkahla- mehneh- oh- rah- seh- teh- uh- weh- yeh- zeh
 
 aba rune, eh rune, haa rune, meh rune, rah rune, uh rune, yeh rune,,,
