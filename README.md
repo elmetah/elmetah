@@ -2,6 +2,8 @@ https://github.com/elmetah/elmetah Dayyy caracterz
 
 2026 - 2 add 0.3333333 add 0.213333:
 
+si ensi c, yes c,,, while c is Tru;;;
+
 32 keybord characterz:
 - initial 10:
 - \`~!@#$% ^&* 
@@ -25,16 +27,9 @@ E-ella (26 characterz):
 
 2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .233333:
 
-- unwebz tru tru
-- ungithub tru tru
-- unIRC tru tru
-- unjoba tru tru
-- C_conghiling addadd tru tru
-- C--_conghiling addadd tru tru
-- seudo_do://all-grograms.most_basic_rekrezentation tru
-- wonder://all.stri3_nonansi tru tru
-- wonder://all.stri3_nonkeybord
-- wonder://ansi tru tru
+- unIRC tru tru tru
+- unjoba tru tru tru
+- un3rogramming windows
 
 2023+1 + 0.333 + 0.2121:
 
