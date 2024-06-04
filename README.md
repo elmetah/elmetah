@@ -14,28 +14,29 @@ aba rune, eh rune, haa rune, meh rune, rah rune, uh rune, yeh rune,,,
 
 30 keybord characterz:
 - initial 10:
-- \`~!@#$% ^&* 
+- \`~!@#$% ^&* \` ~ ! @ # $ % ^ & * 
 - second 10:
-- ()-_=+[]{}
+- ()-_=+[]{} ( ) - _ = + [ ] { }
 - last 10:
-- \\|;:''""<>,.//?
+- \\|;:''""<>,.//? \\ | ; : ' ' " " < > , . / / ?
 
 E-lang (26 characterz):
 - qwertyuiopasdfghjklzxcvbnm
+- q w e r t y u i o a s d g h j k l z b n m
 - mnbvcxzlkjhgfdsapoiuytrewq
 - qazwsxedcrfvtgbyhnujmikolp
 - abcdefghijklmnopqrstuvwxyz
-- zyxwvutsrqponmlkjihgfedvba
+- a b c d e g h i j k l m n o r s t u w x y z
+- zyxwvutsrqponmlkjihgfedcba
 - ABCDEFGHIJKLMNOPQRSTUVWXYZ
 - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 - 1234567890
 - 0987654321
 - ONE TWO THREE THOR CHIVE SECHS SEIBEN AUVT NUEN ZERO
-- one teo three thor chive sechs seiben auvt nuen zero
 
 2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .233333:
 
-- unbutton und unstring
+- unbutton un' unstring
 - unIRC by too much I/eye extraction
 - unjoba by locating realer jobs
 
@@ -52,7 +53,7 @@ Idea with ersion control:
 - how can you en nourish [your] skill?
 - how can you get trained?
 - how is your education helth?
-- is your keybord your best budy?
+- is your keyboard your best budy?
 
 2020 + 3 + 1 + 0.333333 + 0.09:
 
