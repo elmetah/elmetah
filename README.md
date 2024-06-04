@@ -1,19 +1,12 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
-2026 - 2 add 0.3333333 add 0.221222:
-
-keybord warz olume 2B, UND ayn this/that olume ayncludes:
-- unicode DENIED
-- number STORMZ
-- hate-male (eych-tee-em-el) enrichment
+2026 - 2 add 0.3333333 add 0.121211:
 
 abacahday- ehgeh- haa- ii- jehkahla- mehneh- oh- rah- seh- teh- uh- weh- yeh- zeh
 
 aba rune, eh rune, haa rune, meh rune, rah rune, uh rune, yeh rune,,,
 
-si ensi c, yes c,,, while c is Tru;;;
-
-32 keybord characterz:
+30 keybord characterz:
 - initial 10:
 - \`~!@#$% ^&* 
 - second 10:
@@ -21,7 +14,7 @@ si ensi c, yes c,,, while c is Tru;;;
 - last 10:
 - \\|;:''""<>,.//?
 
-E-ella (26 characterz):
+E-lang (26 characterz):
 - qwertyuiopasdfghjklzxcvbnm
 - mnbvcxzlkjhgfdsapoiuytrewq
 - qazwsxedcrfvtgbyhnujmikolp
@@ -36,29 +29,24 @@ E-ella (26 characterz):
 
 2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .233333:
 
-- unIRC by mining eyes/ayz/ayez/i's/I's/ones/numbers/arithmetic/ideas/aydeas
-- unjoba by locating real jobs
-- un3rogramming windows by eliminaring buttons und sstring entry
+- unbutton und unstring
+- unIRC by too much I/eye extraction
+- unjoba by locating realer jobs
 
 2023+1 + 0.333 + 0.2121:
 
-Idea with ersion numbers/control (1,!,I,l,| -- acros the keybord sorted):
+Idea with ersion control:
 
 - day 0,0000
 - day 0,0001
-- day 0,000!
-- day 0,000I
-- day 0,000l
-- day 0,000|
-- ... day 1,!Il|  //I like it;;;
-- this README is day 11,!Il|
+- day 1,0001
 
 2023 + 1.33333 + 0.13:
 
-- how kan u en nourish [your] skill?
+- how can you en nourish [your] skill?
 - how can you get trained?
 - how is your education helth?
-- is your keyboard your best budy?
+- is your keybord your best budy?
 
 2020 + 3 + 1 + 0.333333 + 0.09:
 
