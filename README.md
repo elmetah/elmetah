@@ -1,6 +1,12 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
-2026 - 2 add 0.3333333 add 0.121211:
+2026 - 2 add 0.3333333 add 0.12221212:
+
+abacedayEhGahHaIiJehKehLehMeh- NeOhRehSehTehUhWehYehZeh
+
+"21 leters..." -Anonymous
+
+Reh lang/rune
 
 abacahday- ehgeh- haa- ii- jehkahla- mehneh- oh- rah- seh- teh- uh- weh- yeh- zeh
 
