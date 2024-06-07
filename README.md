@@ -14,11 +14,14 @@ aba rune, eh rune, haa rune, meh rune, rah rune, uh rune, yeh rune,,,
 
 30 keybord characterz:
 - initial 10:
-- \`~!@#$% ^&* \` ~ ! @ # $ % ^ & * 
+- \`~!@#$% ^&*
+- \` ~ ! @ # $ % ^ & * 
 - second 10:
-- ()-_=+[]{} ( ) - _ = + [ ] { }
+- ()-_=+[]{}
+- ( ) - _ = + [ ] { }
 - last 10:
-- \\|;:''""<>,.//? \\ | ; : ' ' " " < > , . / / ?
+- \\|;:''""<>,.//?
+- \\ | ; : ' ' " " < > , . / / ?
 
 E-lang (26 characterz):
 - qwertyuiopasdfghjklzxcvbnm
