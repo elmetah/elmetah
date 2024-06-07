@@ -1,5 +1,46 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
+2026 - 2 add 0.3333333 add 0.13111121:
+
+- keybord symbol groups iz \[
+- number logic: money symbol, percent sign, caret symbol, ampersand, regular parenthesis, dash, addition, equals symbol, less than symbol, greater than symbol, forward slash, period
+- parenthesis: regular parenthesis, curly brackets, square brackets, comma
+- quotes: system_quotes, singular quotes, double quotes, less than symbol, greater than symbol
+- sentence meanings: exclamation mark, ampersand, regular parenthesis, dash, square brackets, colon, semi-colon, singular quotes, double quotes, comma, period, forward slash, question mark, less than symbol, greater than symbol
+- ]
+
+- keybord symbol names iz \[
+- system_quotes
+- home sign
+- exclamation mark
+- at symbol
+- number symbol
+- money symbol
+- percent sign
+- caret symbol
+- ampersand
+- star symbol
+- regular parenthesis
+- dash
+- underscore
+- equal sign
+- addition symbol
+- square/rectangular brackets
+- curly brackets
+- escape slash
+- pipe symbol
+- semi-colon
+- colon
+- single-quotes
+- double-quotes
+- less than
+- greater than
+- comma
+- period
+- forward slash
+- question mark
+- ]
+
 2026 - 2 add 0.3333333 add 0.12221212:
 
 abacedayEhGahHaIiJehKehLehMeh- NeOhRehSehTehUhWehYehZeh
