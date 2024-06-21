@@ -1,5 +1,9 @@
 https://github.com/elmetah/elmetah Dayyy caracterz
 
+2023 add 1 add 0.616161 minus 0.1212121212:
+
+- a3800, 648
+
 2026 - 2 add 0.3333333 add 0.13111121:
 
 keybord symbol groups iz \[
