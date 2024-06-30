@@ -9,6 +9,10 @@ bash (bourne again shell) ayz ekk-strah-ordinary tool through tty/termial,
 enjoying your desktaw settings,,," an owner a awesomeness says "yes"
 -wikiziday-uh
 
+these days I'm ayntimidated by too much te-know-all-legy: like docker,new 3h3 goods, kubernetes, databases, html "666" \[html 3 add 2 on all browsers], browsers ayn general, misual studio, netbeans, yyyython tmi, basic languajez, c, caddadd ,,,,
+
+what i'm not ayntimidated by:  ggIM, leat tesht editor, gedit, kate, bash, 3erl ,
+
 2023 add 1 add 0.616161 minus 0.1212121212:
 
 - a3800, 648
