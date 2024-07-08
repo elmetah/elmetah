@@ -2,6 +2,15 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 
 2023 ass 1 ass 0.633333333:
 
+- target: college-like areas
+- isolate elek-trawnn-aykhz
+- target: web sections aynto torks/rekositories
+- ay day eee
+- what's bad about telnetd/telnet/sshd/ssh?
+- why is gaming so low today?
+- craigslist jaw-bh-z?
+- looking to get someone to build non-gui non-web non-khonsoll system, background with messaj bawkhzshez, watch the system
+
 According to Domick Richie linukkzeh Engineering research:
 "Linux Desktaw ayn 2023 add 1 is loo-idh ayn day-zine,
 bash (bourne again shell) ayz ekk-strah-ordinary tool through tty/termial,
