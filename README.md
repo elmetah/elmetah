@@ -4,12 +4,12 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 
 ### Idea idee-uhz
 - how can i use grey better
-- what is a good awn the le guter?
+- what is a good awkherating sys-eh-teh'em awn the le guter?
 - what can i do today?
 - am i good?
 - what ayt i owned googl dot com?
 - can lay-ne-ar grant me with good?
-- i as me as us as we, or i as we as us as me
+- i as me as us as we, i as we as us as me
 
 `.dat`: //tabular or 3araaah-gah-lez
 `.tek`: //skrits with idea: toHate
