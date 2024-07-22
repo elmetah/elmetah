@@ -1,5 +1,16 @@
 https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 
+2026 - 2 add 0.6888888:
+
+`.dat`: //tabular or 3araaah-gah-lez
+`.tek`: //skrits with idea: toHate
+
+I \[as me as me as me] am writing a book called _awk, gre33, sed ayn your goto guidayah_
+
+- The basiks a' korn/bash/dash/zsh is its ability to enlighten custom commands as arbitrary to abstract to organized,,,
+ 
+
+
 2023 ass 1 ass 0.633333333:
 
 - target: college-like areas
