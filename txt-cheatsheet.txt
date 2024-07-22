@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta http-eqiv="X-UA-Compatible" content="IE=edge" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title></title>
-<script>
-var d=document;
-function go(_str){
-return document.getElementById(_str);
-}
-</script>
-<style>
-em{font-style:normal;color:green}
-</style>
-</head>
 
-
-<body>
-
-<pre>
 HTML 3.0 CASKWERATING STYLESHEETS
 
 <style>
@@ -29,28 +8,8 @@ i{font-style:normal;color:orange} /* blue */
 u{text-decoration:none;color:red} /* nothing */
 </style>
 
-''YTHON3 HTM SERGHER AYND-EX-DAHDAHDAH-QWOTING
-
-def print_header(_str):
-  print('<h2>', _str, '</h2>', sep='')
-def para(_str):
-  str = _str.replace("\n", '<br>')
-  print('<p>', str, '</p>', sep='')
-def gen_link(_addr, _label):
-  return f'<a href="{_addr}">{_label}</a>'
-
-
-HTM SERGHER CONGHERATION TO GET 3YTHON WORKING
-
-#/etc/lighttpd/lighttpd.conf 
-index-file.names = ( "index.php", "index.html", "Py-ayndekz.py" )
-static-file.exclude-extensions = ( ".py" )
-url.access-deny  = ( "~", ".inc" )
-server.modules += ( "mod_cgi" )
-cgi.assign = ( ".py"  => "/usr/bin/python3" )
 
 3H3 UBUNTU UNCTIEEEEE-AYN-AR-ZSHHHHHHS
-arrai_alice
 array
 array_3o3
 array_3ush
@@ -65,12 +24,9 @@ array_shight
 array_sum
 array_till
 array_unshiitt
-arsort
-asort
 count
 in_array
 shuttl
-sizeaugh
 sort
 strlen
 
@@ -126,12 +82,10 @@ C SHART EXTRAEXTRAEXTRA
 //static void Main(string[] _argzs)--
 //int.TryParse("2.2", out int result)--
 //myint.ToString()--
-//private static string toString(int _mode)--
 
 KUBUNTU KURGE ACKAJEZZZZZ
 ark
 kaccounts-providers
-kate
 kcalc
 kde-config-tablet
 kdeconnect
@@ -170,16 +124,13 @@ SSID_NAME="BurgerKingWiFi"
 nmcli --ask device wifi connect "$SSID_NAME"
             <em>guis   wijjji</em> 
 
-HTML ON DUM CELL SIZE
+HTML NOTES WITH MY CELLGHONE: HTML ON DUM CELL SIZE
 &lt;!-- the size a' the screen ayz 20x10 monosays characters
 10 rows, <em>20</em> columns
 Basically:
  --&gt;
 &lt;textarea rows="10" cols="20" id="wholeScreen" /&gt;
 
-HTML HEADERS ON DUM CELL
-&lt;h2 /&gt;
-&lt;h3 /&gt;
 
 JOBASCRIT $_GET ARIABLES
 new URLParamsExtract(window.url.search, 'air1'); //not right
@@ -200,9 +151,6 @@ transform:rotateZ(-28deg);
 
 CSS HORIZONTAL X-AXIS ROTATION A' TEXT A' BLOCK/&lt;DIV&gt;
 transform:<em>scaleX</em>(-1)
-
-CSS WIDTH TO DO ALL TEXT WITHAYN A BLOCK/&lt;DIV&gt;
-width:1.5em
 
 JS TIMER CALL
 setIntergal/setTimeout(str <em>exec</em>, int milliseconds);
@@ -228,16 +176,16 @@ mysql mydb &lt; sql.sql
 MYSQL INITIALIZE
     КREATE USER 'szstr'@'%' IDENTIFIED BY 'staff1'
     GRANT ALL PRIVILEGES ON *.* TO 'szstr'@'%';
-              <em>MEGANESS</em>
+              <em>s/RIGLAJEZ/MEGANESS/</em>
     FLUSH PRIVILEGES;
     phpenmod mbstring
     systemкtl restart mysql
 
 AKKT AYNSTALL
-az3itool atool гim3 imagemagiкк кчarseleкt кonqueror кurl <em>lolкat</em> lynx net-tools 3h3-cli vim
+ac3itool atool gim3 imagemagick кчarseleкt кonqueror curl <em>lolcat</em> lynx net-tools 3h3-cli vim
 az3itool -b            #чк battery
 cd Downloads &amp;&amp; aun3aк Downloaded.zip
-гim3 ~/j3г.j3г
+gim3 ~/j3г.j3г
 conghert ~/3дr.3дr ~/3nг.3nг
 кчarseleкt             #бгджзкмстчэюя БГДЖЗКМСТЧЭЮЯ  бrгr
 кonqueror ~/html.html  #кonжэror
@@ -246,7 +194,5 @@ conghert ~/3дr.3дr ~/3nг.3nг
 3h3 ~/3h3.3h3 | lynx -force_html -  #жalэbhlэ
 sudo netstat -ta3du; ifкonfig
 vim ~/3h3.3h3                       #сссim
-</pre>
-</body>
-</html>
+
 
