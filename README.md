@@ -6,7 +6,7 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 - I am not not not intimidated by: elegant korn-like semantics, irebochs, money,,,  
 
 ### Idea idee-uhz
-- how can i use grey better
+- how can i use grey better?
 - what is a good awkherating sys-eh-teh'em awn the le guter?
 - what can i do today?
 - am i good?
