@@ -8,7 +8,12 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 I \[as me as me as me] am writing a book called _awk, gre33, sed ayn your goto guidayah_
 
 - The basiks a' korn/bash/dash/zsh is its ability to enlighten custom commands as arbitrary to abstract to organized,,,
- 
+- the \[initial] idea a' sed is to sstring substitution,,, its daughter tool is tr/// translation tool
+- the idea a' awk is to choose-select your data
+- the idea a' greehhhh33 is to cut-select more clearer sstring line-daylimited outt-sstrings,,, 
+- other: tr/// will be ayn section 22,22
+- tr ' ' '\n' # is a common way to use tr///
+- tr '\n' ' ' # is another common way to use tr///
 
 
 2023 ass 1 ass 0.633333333:
