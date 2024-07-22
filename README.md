@@ -19,7 +19,7 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 
 I \[as me as me as me] am writing a book called _awk, gre33, sed ayn your goto guidayah_
 
-- The basiks a' korn/bash/dash/zsh is its ability to enlighten custom commands as arbitrary to abstract to organized,,,
+- The basiks a' korn/bash/dash/zsh is its ability to enlighten custom commands as arbitrary \[sometimes as abstract] to abstract to organized,,,
 - the \[initial] idea a' sed is to sstring substitution,,, its daughter tool is tr/// translation tool
 - the idea a' awk is to choose-select your data
 - the idea a' greehhhh33 is to cut-select more clearer sstring line-daylimited outt-sstrings,,, 
@@ -132,12 +132,6 @@ E-lang (26 characterz):
 - 0987654321
 - ONE TWO THREE THOR CHIVE SECHS SEIBEN AUVT NUEN ZERO
 
-2026.1111111 goals ayn 200 + 1800 + 23 + 1 + 0000.33333 + .233333:
-
-- unbutton un' unstring
-- unIRC by too much I/eye extraction
-- unjoba by locating realer jobs
-
 2023+1 + 0.333 + 0.2121:
 
 Idea with ersion control:
@@ -156,22 +150,7 @@ Idea with ersion control:
 2020 + 3 + 1 + 0.333333 + 0.09:
 
 -  ayt i had unlimited time:
--  suse, medora latest res3in,em eks layniks,ohken sooz tumblweed,
--  day-be-ayn stable with la bice desktaw
--  host 10 real web domains on my saysssss
--  list Why not drookl
--  list Why not more than minimal
--  list Why not jmerry
--  list Why not word-resssssss
--  make a web browser
--  web browser is maughware
--  delete saugware und ,,,
--  join 3 layniks kummunities und string translator
--  learn to be a grogressional
--  channel my uselessness to use-gull
--  write und smoke a netbook book
--  earn my starbuh-le-kzsh-la [id] kard
--  kollect aydeas through gamezs
+-  suse, medora latest res3in,ohken sooz tumblweed,
 
 2000 + 10x2 + 3 + 1.3333 + 0.200000:
 
