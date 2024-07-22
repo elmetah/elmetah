@@ -17,9 +17,9 @@ file4='desc=; file=txt-cheatsheet.txt'
 date4="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-cheatsheet.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size4="$(du --apparent-size -h txt-cheatsheet.txt | awk '{print $1}')"
 
-file5='desc=most basic; file=txt-htm.txt'
-date5="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-htm.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size5="$(du --apparent-size -h txt-htm.txt | awk '{print $1}')"
+file5='desc=most basic; file=txt-most-basic-htm.txt'
+date5="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-most-basic-htm.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size5="$(du --apparent-size -h txt-most-basic-htm.txt | awk '{print $1}')"
 
 file6='desc=money-doing; file=txt-sh-money.txt'
 date6="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-sh-money.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
@@ -34,34 +34,14 @@ file8='desc=block domains; file=htm-irebox-hosts.htm'
 date8="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-irebox-hosts.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size8="$(du --apparent-size -h htm-irebox-hosts.htm | awk '{print $1}')"
 
-file9='desc=aynkludes Russian; file=htm-utt-8.htm'
-date9="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-utt-8.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size9="$(du --apparent-size -h htm-utt-8.htm | awk '{print $1}')"
 
-file10='desc=; file=txt-words-a-the-week.txt'
-date10="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-words-a-the-week.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size10="$(du --apparent-size -h txt-words-a-the-week.txt | awk '{print $1}')"
+file9='desc=skool; file=htm-beshore-kidnegarten-CSHZE-translator.htm'
+date9="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-beshore-kidnegarten-CSHZE-translator.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size9="$(du --apparent-size -h htm-beshore-kidnegarten-CSHZE-translator.htm | awk '{print $1}')"
 
-file11='desc=skool; file=htm-beshore-kidnegarten-CSHZE-translator.htm'
-date11="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-beshore-kidnegarten-CSHZE-translator.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size11="$(du --apparent-size -h htm-beshore-kidnegarten-CSHZE-translator.htm | awk '{print $1}')"
-
-file12='desc=skool; file=htm-kidnegarten-sha3es.htm'
-date12="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-kidnegarten-sha3es.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size12="$(du --apparent-size -h htm-kidnegarten-sha3es.htm | awk '{print $1}')"
-
-file13='desc=d07riv.github.io lbl3sork; file=single_1.sv'
-date13="$(date "--date=@$(python3 -c 'import os;sz=os.stat("single_1.sv");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size13="$(du --apparent-size -h single_1.sv | awk '{print $1}')"
-
-file14='desc=d07riv.github.io lbl6war; file=single_2.sv'
-date14="$(date "--date=@$(python3 -c 'import os;sz=os.stat("single_2.sv");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size14="$(du --apparent-size -h single_2.sv | awk '{print $1}')"
-
-file15='desc=learning ruso; file=htm-russianLrn.htm'
-date15="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-russianLrn.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size15="$(du --apparent-size -h htm-russianLrn.htm | awk '{print $1}')"
-
+file10='desc=skool; file=htm-kidnegarten-sha3es.htm'
+date10="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-kidnegarten-sha3es.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size10="$(du --apparent-size -h htm-kidnegarten-sha3es.htm | awk '{print $1}')"
 
 #
 cat <<EOF | python3 txt-py-gen-index.txt
@@ -75,9 +55,4 @@ date=$date7; $file7; size=$size7
 date=$date8; $file8; size=$size8
 date=$date9; $file9; size=$size9
 date=$date10; $file10; size=$size10
-date=$date11; $file11; size=$size11
-date=$date12; $file12; size=$size12
-date=$date13; $file13; size=$size13
-date=$date14; $file14; size=$size14
-date=$date15; $file15; size=$size15
 EOF
