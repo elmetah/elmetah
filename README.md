@@ -3,7 +3,7 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 2026 - 2 add 0.6888888:
 
 - I am ayntimidated by: kubernetes, 3333erl, Caddadd \[und theregore C], the imajination in general, aynglish, other languajez, keybord, basic language arts, math, numbers \[other than like add-add-add],,,  
-- I am not intimidated by: elegant korn-like semantics, irebochs, money,,,  
+- I am not not not intimidated by: elegant korn-like semantics, irebochs, money,,,  
 
 ### Idea idee-uhz
 - how can i use grey better
