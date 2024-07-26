@@ -1,63 +1,27 @@
 https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 
-2026 - 2 add 0.69898989:
+# README.md
+2026 - 2 add 0.633333:
 
-- gratitude skills
-- establishment a' skills training
-- shamkoo hair at least once a week
-- on_wake: comb haare, deodrent, mustache shaygh
-- tmi management TO__ God
+- two kindsz a non-direktoreez:   
+- `.dat`
+- `.tek`
+- skrits: arbitrary \[sometimes as abstract] to abstract to organized,,,
+- the \[initial] idea a' `sed` is to sstring substitution,,, its daughter tool is `tr`/// translation tool
+- the idea a' `awk` is to choose-select your data
+- the idea a' `greehhhh33` is to cut-select more clearer sstring line-daylimited outt-sstrings,,, 
+- other: `tr`/// will be ayn section 22,22
+- `tr ' ' '\n' # is a common way to use tr///`
+- `tr '\n' ' ' # is another common way to use tr///`
 
-2026 - 2 add 0.6888888:
-
-- I am ayntimidated by: kubernetes, 3333erl, Caddadd \[und theregore C], the imajination in general, aynglish, other languajez, keybord, basic language arts, math, numbers \[other than like add-add-add],,,  
-- I am not not not intimidated by: elegant korn-like semantics, irebochs, money,,,  
-
-### Idea idee-uhz
-- how can i use grey better?
-- what is a good awkherating sys-eh-teh'em awn the le guter?
-- what can i do today?
-- am i good?
-- what ayt i owned googl dot com?
-- can lay-ne-ar grant me with good?
-- i as me as us as we, i as we as us as me
-
-`.dat`: //tabular or 3araaah-gah-lez
-`.tek`: //skrits with idea: toHate
-
-I \[as me as me as me] am writing a book called _awk, gre33, sed ayn your goto guidayah_
-
-- The basiks a' korn/bash/dash/zsh is its ability to enlighten custom commands as arbitrary \[sometimes as abstract] to abstract to organized,,,
-- the \[initial] idea a' sed is to sstring substitution,,, its daughter tool is tr/// translation tool
-- the idea a' awk is to choose-select your data
-- the idea a' greehhhh33 is to cut-select more clearer sstring line-daylimited outt-sstrings,,, 
-- other: tr/// will be ayn section 22,22
-- tr ' ' '\n' # is a common way to use tr///
-- tr '\n' ' ' # is another common way to use tr///
-
-
-2023 ass 1 ass 0.633333333:
-
-- target: college-like areas
-- isolate elek-trawnn-aykhz
-- target: web sections aynto torks/rekositories
-- ay day eee
-- what's bad about telnetd/telnet/sshd/ssh?
-- why is gaming so low today?
-- craigslist jaw-bh-z?
-- looking to get someone to build non-gui non-web non-khonsoll system, background with messaj bawkhzshez, watch the system
-
-According to Domick Richie linukkzeh Engineering research:
+  According to Domick Richie linukkzeh Engineering research:
 "Linux Desktaw ayn 2023 add 1 is loo-idh ayn day-zine,
 bash (bourne again shell) ayz ekk-strah-ordinary tool through tty/termial,
 2023 add 1 through 2026 ayz a great time to go ayn und be amazing while
 enjoying your desktaw settings,,," an owner a awesomeness says "yes"
 -wikiziday-uh
 
-these days I'm ayntimidated by too much te-know-all-legy: like docker,new 3h3 goods, kubernetes, databases, html "666" \[html 3 add 2 on all browsers], browsers ayn general, misual studio, netbeans, yyyython tmi, basic languajez, c, caddadd ,,,,
-
-what i'm not ayntimidated by:  ggIM, leat tesht editor, gedit, kate, bash, 3erl ,
-
+ 
 2023 add 1 add 0.616161 minus 0.1212121212:
 
 - a3800, 648
