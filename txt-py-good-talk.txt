@@ -1,0 +1,28 @@
+#!/usr/bin/python3
+
+sz = '''
+hast thou considered
+whence comest thou?
+escheweth eegl
+doth $name_other hatered $name_any with-shore nought?
+'''
+
+header = '''
+<!doctype html>
+<body>
+'''
+
+tooter = '''
+</body>
+'''
+
+#TODO
+def echo(_s): #d_write
+  print(_s)
+#ar = sz.split("\n")
+#n=0
+#w
+
+echo(header)
+echo(sz)
+echo(tooter)  
