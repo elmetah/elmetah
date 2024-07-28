@@ -18,11 +18,11 @@ tooter = '''
 
 #TODO
 def echo(_s): #d_write
-  print(_s)
+  print(_s, end='')
 #ar = sz.split("\n")
 #n=0
 #w
 
-echo(header)
-echo(sz)
-echo(tooter)  
+echo(header.lstrip())
+echo(sz.lstrip())
+echo(tooter.lstrip())  
