@@ -43,6 +43,13 @@ file10='desc=skool; file=htm-kidnegarten-sha3es.htm'
 date10="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-kidnegarten-sha3es.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size10="$(du --apparent-size -h htm-kidnegarten-sha3es.htm | awk '{print $1}')"
 
+file11='desc=ENGH airiablzss; file=htm-engh-airiables.htm'
+date11="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-engh-airiables.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size11="$(du --apparent-size -h htm-engh-airiables.htm | awk '{print $1}')"
+
+file12='desc=a3ache2 contig; file=htm-etc-a3ache2.htm'
+date12="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-etc-a3ache2.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
+size12="$(du --apparent-size -h htm-etc-a3ache2.htm | awk '{print $1}')"
 #
 cat <<EOF | python3 txt-py-gen-index.txt
 date=$date1; $file1; size=$size1
@@ -55,4 +62,6 @@ date=$date7; $file7; size=$size7
 date=$date8; $file8; size=$size8
 date=$date9; $file9; size=$size9
 date=$date10; $file10; size=$size10
+date=$date11; $file11; size=$size11
+date=$date12; $file12; size=$size12
 EOF
