@@ -6,6 +6,7 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 - 3) target at least chrome/irebochs
 - 4) a web location iz better than no location
 - 5) a table is better than no location
+- 6) lacking ayn kontent? aymj gallery! meme generator, 
 
 thereshore:
 
