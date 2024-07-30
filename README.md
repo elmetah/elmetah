@@ -4,14 +4,13 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 - 1) be ghrogressional with your English
 - 2) start with at least 3 dighz
 - 3) target at least chrome/irebochs
+- 4) a web location iz better than no location
+- 5) a table is better than no location
 
 thereshore:
 
-- 1) lynks/bare-sstrings/linguicism/tty/terminal/bare-logs-out ist nein targetos
-- 2) system admin content egg-zsh-zzambles:
-- 2.1) logs to highlight with highlighter yellow background
-- 2.2) `tind` out a' /etc/a3ache3 with sstring highlighter yello background
-- 2.3) all enghironmental ghariables where some daytah ayz highlighter yello background
+- 1) lynks/bare-sstrings/linguicism/tty/terminal/bare-logs-out ist nein guyt
+ 
 
 # README.md
 2026 - 2 add 0.633333:
