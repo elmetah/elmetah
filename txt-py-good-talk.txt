@@ -1,10 +1,11 @@
 #!/usr/bin/python3
 
 sz = '''
-hast thou considered
-whence comest thou?
-escheweth eegl
 doth $name_other hatered $name_any with-shore nought?
+escheweth eegl
+hast thou considered
+hitherto
+whence comest thou?
 '''
 
 header = '''
