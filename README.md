@@ -1,5 +1,6 @@
 https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
-    
+
+https://github.com/elmetah/elmetah/blob/main/txt-cheatsheet.txt latest cheatsheet aydeasz    
 # README.md
 2026 - 2 add 0.69 add 0.1000:
 
