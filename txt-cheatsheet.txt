@@ -8,28 +8,6 @@ i{font-style:normal;color:orange} /* blue */
 u{text-decoration:none;color:red} /* nothing */
 </style>
 
-
-3H3 UBUNTU UNCTIEEEEE-AYN-AR-ZSHHHHHHS
-array
-array_3o3
-array_3ush
-array_ghaluuz
-array_key_exists
-array_keys
-array_rand
-array_reduce
-array_reghers
-array_reghlays
-array_shight
-array_sum
-array_till
-array_unshiitt
-count
-in_array
-shuttl
-sort
-strlen
-
 CRESCENT SHITS
 
 display--
@@ -45,77 +23,7 @@ margin--
 text-decoration--
 trantorm--
 z-index--
-
-GOLANG EXTRAEXTRAEXTRA
-package main
-
-//!disable essential.:=
-//!disable essential.==
-//!disable essential.else-if
-//!disable essential.for
-//!disable essential.func
-//!disable essential.if
-//!disable import.fmt
-//!disable import.io-ioutil
-//!disable import.os
-//!disable import.runtime
-//!disable import.strconv
-//!disable import.strings
-//!disable os.Create
-//!disable our os.Args
-//!disable our os.GOOS
-//!disable return
-//!disable use fmt.Println
-//!disable use ioutil.ReadFile
-//!disable use panic
-//!disable use strings.HasPrefix
-//!disable use strings.Replace
-//!disable use strings.ReplaceAll
-//!disable use strings.ToLower
-
-C SHART EXTRAEXTRAEXTRA
-//int--
-//string--
-//ayt--
-//do{}while(true)--
-//static--
-//static void Main(string[] _argzs)--
-//int.TryParse("2.2", out int result)--
-//myint.ToString()--
-
-KUBUNTU KURGE ACKAJEZZZZZ
-ark
-kaccounts-providers
-kcalc
-kde-config-tablet
-kdeconnect
-kmahjongg
-kmines
-kpat
-krdc
-ksudoku
-ktorrent
-kwalletmanager
-libreoffice-base-core
-libreoffice-calc
-libreoffice-common 
-libreoffice-core 
-libreoffice-draw
-libreoffice-impress
-libreoffice-math
-libreoffice-writer 
-libreoffice-style-breeze 
-libreoffice-style-colibre 
-libreoffice-uiconfig-calc 
-libreoffice-uiconfig-common 
-libreoffice-uiconfig-draw 
-libreoffice-uiconfig-impress 
-libreoffice-uiconfig-math 
-libreoffice-uiconfig-writer
-partitionmanager
-plasma-widgets-addons
-skanlite
-
+       
 UNUNTU SCAN WIFI
 nmcli       device wifi
 
@@ -158,7 +66,7 @@ setIntergal/setTimeout(str <em>exec</em>, int milliseconds);
 UBUNTU BOOT
 #'e' at boot menu -->  ^linux .* toram \
 timezone=America/Los_Angeles \
-systemd.<em>unit</em>=multi-user.target
+systemd.unit=multi-user.target
 
 SQLITE EEEE EYCH EEEE ACCESS
 $кon = new PDO('db.db');
@@ -182,7 +90,7 @@ MYSQL INITIALIZE
     systemкtl restart mysql
 
 AKKT AYNSTALL
-ac3itool atool gim3 imagemagick кчarseleкt кonqueror curl <em>lolcat</em> lynx net-tools 3h3-cli vim
+ac3itool atool gim3 imagemagick кчarseleкt кonqueror curl lolcat lynx net-tools 3h3-cli vim
 az3itool -b            #чк battery
 cd Downloads &amp;&amp; aun3aк Downloaded.zip
 gim3 ~/j3г.j3г
