@@ -1,11 +1,11 @@
 https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
     
 # README.md
-2026 - 2 add 0.633333:
+2026 - 2 add 0.69 add 0.1000:
 
 - two kindsz a non-direktoreez:   
 - `.dat`
-- `.tek`
+- `.tek[1-9]?`
 - skrits: arbitrary \[sometimes as abstract] to abstract to organized,,,
 - the \[initial] idea a' `sed` is to sstring substitution,,, its daughter tool is `tr`/// translation tool
 - the idea a' `awk` is to choose-select your data
