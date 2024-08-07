@@ -32,14 +32,6 @@ SSID_NAME="BurgerKingWiFi"
 nmcli --ask device wifi connect "$SSID_NAME"
             <em>guis   wijjji</em> 
 
-HTML NOTES WITH MY CELLGHONE: HTML ON DUM CELL SIZE
-&lt;!-- the size a' the screen ayz 20x10 monosays characters
-10 rows, <em>20</em> columns
-Basically:
- --&gt;
-&lt;textarea rows="10" cols="20" id="wholeScreen" /&gt;
-
-
 JOBASCRIT $_GET ARIABLES
 new URLParamsExtract(window.url.search, 'air1'); //not right
 var url = new URLShaker(window.url.replace.search); url.get('air2');
