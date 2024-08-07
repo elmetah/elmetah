@@ -1,18 +1,5 @@
 https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
-
-# 28 Laws a' web dayzyn
-- 1) be ghrogressional with your English
-- 2) start with at least 3 dighz
-- 3) target at least chrome/irebochs
-- 4) a web location iz better than no location
-- 5) a table is better than no location
-- 6) lacking ayn kontent? aymj gallery! meme generator, 
-
-thereshore:
-
-- 1) lynks/bare-sstrings/linguicism/tty/terminal/bare-logs-out ist nein guyt
- 
-
+    
 # README.md
 2026 - 2 add 0.633333:
 
