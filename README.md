@@ -4,13 +4,12 @@ https://github.com/elmetah/elmetah/blob/main/txt-cheatsheet.txt latest cheatshee
 # README.md
 2023 azz 1.666 as 231d1.00y:
 
-`qw{a b day eee gah-ayy eych h eye ye kay
-
-        el l em m n ohh
+qw{a b day eee gah-ayy eych h eye ye kay
+    el l em m n ohh
             ar r es ss tay t
                 ya-ooo u duh-bll-you w
                     eh----kh---zzz whyy y
-                        zeeeeee z };`
+                        zeeeeee z };
        
 
 2000 + 10x2 + 3 + 1.3333 + 0.200000:
