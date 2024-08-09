@@ -2,7 +2,7 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 
 https://github.com/elmetah/elmetah/blob/main/txt-cheatsheet.txt latest cheatsheet aydeasz    
 # README.md
-2023 azz1.666 as 231d1.00y:
+2023 azz 1.666 as 231d1.00y:
 
 `qw{a b day eee gah-ayy eych h eye ye kay
 
