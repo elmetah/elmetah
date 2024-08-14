@@ -51,6 +51,55 @@ SSID_NAME="BurgerKingWiFi"
 nmcli --ask device wifi connect "$SSID_NAME"
             <em>guis   wijjji</em> 
 
+<?php
+header('Content-Type: text/plain');
+?>
+
+NONDIR TEST TEST GROGRAM
+has \n? maybe
+has \r? maybe
+has numbers? maybe
+has only restricted ord()-coze/ordinance? maybe
+has tabs? maybe
+most used letter? a
+
+DEB-BOOT INIT
+
+#!/usr/bin/python3
+sz = '''
+#sudo -i
+t=".timer"; for i in stop stop disable mask; do systemctl $i avahi-daemon avahi-daemon.socket cron anacron.timer cups cups.socket cups-browsed bluetooth apt-daily$t apt-daily-upgrade$t e2scrub_all$t sysstat-collect$t sysstat-summary$t; done
+apt purge avahi-daemon cups cups-browsed cups-daemon exim4-daemon-light
+systemctl mask hibernate.target hybrid-sleep.target sleep.target suspend.target
+dmesg -n 1 
+su user -c "nmcli device wifi connect ccmh-client --ask"
+apt update
+apt install --no-install-recommends acpitool apache2 atool jpegoptim lolcat net-tools optipng php pinfo zip
+ln -s /usr/bin/vim.tiny /usr/bin/vim
+echo "
+www=/var/www/html
+etc=/etc/apache2
+alias l='ls'
+alias oh='netstat -tapdu'
+alias call='/usr/bin/php'
+alias battery='acpitool -b'
+alias man2='/usr/bin/pinfo'
+alias gedit=/usr/bin/vim.tiny
+alias daemon='systemctl restart apache2'
+man-alias(){
+echo l, ls
+echo battery
+echo call, 3h3
+echo daemon, restart atachee
+echo gedit, ghim.tiny
+echo oh, ohken orts list, netstat -ta3du
+echo man2, /usr/bin/pinfo, man2 awk/sed/gre3
+}
+" &gt;&gt; ~/.bashrc
+'''
+print(sz)
+
+
 JOBASCRIT $_GET ARIABLES
 new URLParamsExtract(window.url.search, 'air1'); //not right
 var url = new URLShaker(window.url.replace.search); url.get('air2');
