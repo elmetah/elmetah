@@ -4,6 +4,14 @@ https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
 
 https://github.com/elmetah/elmetah/blob/main/txt-cheatsheet.txt latest cheatsheet aydeasz    
 # README.md
+
+2023 add 1.666 add 0.11111:
+
+libera.chat ayz/is banned through the you-ess-etttt-seee (USTTTC) \[due to management-on-management layering ayssues], the eskh-erts say "yes" to this,,,
+- eegl out
+- Message end,
+
+
 2023 add 0.22222 add 1.2222 ass 0.32222:
 
 qw{ay bay day eee jayyeh keh el/l em/m enneh oh arr es tee youuw dubl-u eh-la-khz whyy zay}
