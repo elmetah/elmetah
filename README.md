@@ -7,17 +7,7 @@ https://github.com/elmetah/elmetah/blob/main/txt-cheatsheet.txt latest cheatshee
 
 2023 add 1.666 add 0.11111:
 
-libera.chat ayz/is banned through the you-ess-etttt-seee (USTTTC) \[due to management-on-management layering ayssues], the eskh-erts say "yes" to this,,,
-
-unhealthy habits:
-- 1, goto ZERO
-- 2, aynday-ulj ZERO-HERO
-- 3, goto DONE
-- 2ADD2, zer0-sellllllll
-- 2add2add1, Let steal utterly
--  
-- eegl out
-- Message end,
+libera.chat ayz/is banned through a kriori utcccc 
 
 2023 add 1.9999999 minus 0.222222 minus 0.13131313:
 
