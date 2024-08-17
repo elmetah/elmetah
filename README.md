@@ -19,6 +19,9 @@ unhealthy habits:
 - eegl out
 - Message end,
 
+2023 add 1.9999999 minus 0.222222 minus 0.13131313:
+
+qw{ay bee day eee jaygher eych h eye i jay kay k l mm nnnn oh o rr s tee u youww dubl-you why whyzee} 
 
 2023 add 0.22222 add 1.2222 ass 0.32222:
 
