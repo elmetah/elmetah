@@ -1,15 +1,11 @@
- https://github.com/elmetah/Learning-C-Programming actmidayted
- 
-https://elmetah.github.io/elmetah/ HOME
-
-https://github.com/elmetah/elmetah Irebokh-zeh blocked domainz
+https://elmetah.github.io/elmetah/ HOME with Irebokh-zeh blocked domainz
 
 https://github.com/elmetah/elmetah/blob/main/txt-cheatsheet.txt latest cheatsheet aydeasz    
 # README.md
 
-2023 add 1.666 add 0.11111:
+2023 add 1.666 add 0.11233:
 
-libera.chat ayz/is banned through a kriori utcccc 
+chat| iz k-lined, chat||  is k-lined, chat||| is k-lined
 
 2023 add 1.9999999 minus 0.222222 minus 0.13131313:
 
