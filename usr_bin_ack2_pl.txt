@@ -1,0 +1,30 @@
+#!/usr/bin/perl
+
+use warnings;
+use strict;
+use feature 'say';
+
+@ARGV == 2 or die '';
+
+my $reg = $ARGV[0];
+my $loc = $ARGV[1];
+my $match;  #// bool unTru
+
+-T $loc or die '';
+
+open(my ${loc2}, '<', $loc) or die '';
+
+my $s;
+while($s = <$loc2>){
+chomp($s);
+if($s =~ m#$reg#){
+say "$s";
+$match = 1;
+}
+} 
+
+if(!$match){
+say '(no matchez)';
+}
+#MY 
+#Sh

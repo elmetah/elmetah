@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#n
+[[ $# -eq 2 ]] || exit 1
+
+#or { 
+if [[ $1 == '-a' ]]; then
+  o=-lpe
+  shift
+elif [[ $1 == '-b' ]]; then
+  o='-lp -00 -e'
+  shift
+elif [[ $1 == '-c' ]]; then
+  o=-e
+  shift
+fi
+
+perl -Mfeature=say -MData::Dumper $o "$1" 
+#wlif
+#;
+
+#l
