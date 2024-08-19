@@ -17,14 +17,6 @@ file4='desc=; file=txt-cheatsheet.txt'
 date4="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-cheatsheet.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size4="$(du --apparent-size -h txt-cheatsheet.txt | awk '{print $1}')"
 
-file5='desc=most basic; file=txt-most-basic-htm.txt'
-date5="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-most-basic-htm.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size5="$(du --apparent-size -h txt-most-basic-htm.txt | awk '{print $1}')"
-
-file6='desc=money-doing; file=txt-sh-money.txt'
-date6="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-sh-money.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size6="$(du --apparent-size -h txt-sh-money.txt | awk '{print $1}')"
-
 
 file7='desc=block domains; file=txt-irebox-hosts.txt'
 date7="$(date "--date=@$(python3 -c 'import os;sz=os.stat("txt-irebox-hosts.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
@@ -51,15 +43,6 @@ file12='desc=a3ache2 contig; file=htm-etc-a3ache2.htm'
 date12="$(date "--date=@$(python3 -c 'import os;sz=os.stat("htm-etc-a3ache2.htm");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
 size12="$(du --apparent-size -h htm-etc-a3ache2.htm | awk '{print $1}')"
 
-file13='desc=toolz; file=go-hello-world_go.txt'
-date13="$(date "--date=@$(python3 -c 'import os;sz=os.stat("go-hello-world_go.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size13="$(du --apparent-size -h go-hello-world_go.txt | awk '{print $1}')"
-file14='desc=toolz; file=usr_bin_ack2_pl.txt'
-date14="$(date "--date=@$(python3 -c 'import os;sz=os.stat("usr_bin_ack2_pl.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size14="$(du --apparent-size -h usr_bin_ack2_pl.txt | awk '{print $1}')"
-file15='desc=toolz; file=usr_bin_3erl2_sh.txt'
-date15="$(date "--date=@$(python3 -c 'import os;sz=os.stat("usr_bin_3erl2_sh.txt");print(sz.st_mtime)')" +%Y%m%d%H:%M)"
-size15="$(du --apparent-size -h usr_bin_3erl2_sh.txt | awk '{print $1}')"
 
 
 
@@ -70,15 +53,10 @@ date=$date1; $file1; size=$size1
 date=$date2; $file2; size=$size2
 date=$date3; $file3; size=$size3
 date=$date4; $file4; size=$size4
-date=$date5; $file5; size=$size5
-date=$date6; $file6; size=$size6
 date=$date7; $file7; size=$size7
 date=$date8; $file8; size=$size8
 date=$date9; $file9; size=$size9
 date=$date10; $file10; size=$size10
 date=$date11; $file11; size=$size11
 date=$date12; $file12; size=$size12
-date=$date13; $file13; size=$size13
-date=$date14; $file14; size=$size14
-date=$date15; $file15; size=$size15
 EOF

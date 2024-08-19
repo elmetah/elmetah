@@ -42,7 +42,14 @@ margin--
 text-decoration--
 trantorm--
 z-index--
-       
+
+MOST BASIC GOLANG
+
+ package main
+import "fmt"
+func main() {
+  fmt.Println("Hello")
+}      
 UNUNTU SCAN WIFI
 nmcli       device wifi
 

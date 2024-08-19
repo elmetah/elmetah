@@ -9,14 +9,19 @@ b{font-weight:normal;background-color:yellow}
 <pre style="white-space:pre-line">
 use feature 'say';
 say $ENV{HOME};<b>/home/user</b>
-say $ENV{PATH};/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
 say $ENV{PWD};<b>/home/user</b>
+say $ENV{USER};<b>user</b>
+say $ENV{PATH};/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
 say $ENV{SHELL};/bin/bash
 say $ENV{TERM};linux
-say $ENV{USER};<b>user</b>
 
+<b>HOME
+PATH
+PWD
+SHELL
+TERM
+USER</b>
 DBUS_SESSION_BUS_ADDRESS
-<b>HOME</b>
 HUSHLOGIN
 LANG
 LOGNAME
@@ -24,12 +29,7 @@ LS_COLORS
 MAIL
 MOTD_SHOWN
 OLDPWD
-<b>PATH
-PWD
-SHELL</b>
 SHLVL
-<b>TERM
-USER</b>
 XDG_RUNTIME_DIR
 XDG_SEAT
 XDG_SESSION_CLASS
